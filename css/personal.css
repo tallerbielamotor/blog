@@ -211,6 +211,221 @@ body>footer>div>a:nth-child(1)>i {
 
 
 
+@media (max-width: 360px) {
+
+	* {
+		font-family: 'Open Sans';
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+	}
+	
+	body {
+		background-color: #bfbfbf;
+	}
+	
+	header {
+		background-color: #cc0000;
+		text-align: center;
+		padding: 20px;
+	}
+	
+	nav a {
+		display: inline-flexbox;
+		text-decoration: none;
+		color: white;
+		/* Cambiar el color del texto a rojo */
+		margin: 0px 10px 0px 0px;
+		padding: 5px 0px;
+		border-radius: 30px;
+	}
+	
+	nav a:hover {
+		background-color: red;
+		color: white;
+	}
+	
+	.logo {
+		border-radius: 200px;
+		border: 5px solid #000;
+		width: 80px;
+	}
+	
+	.espacio {
+		padding: 2px;
+		background-color: #000;
+	}
+	
+	
+	.logotipo {
+		text-align: left;
+	}
+	
+	
+	.encabezado-img {
+		height: 220px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		color: red;
+	}
+	
+	.encabezado-img p {
+		font-size: 10px;
+	}
+	
+	.encabezado-img h1 {
+		font-size: 35px;
+		padding: 10px 0;
+	
+	}
+	
+	.Biotaller {
+		display: flex;
+		font-size: 50px;
+		text-align: center;
+		justify-content: center;
+	
+		animation: fade 10s;
+	}
+	
+	.Personarigth {
+		color: red;
+		display: flex;
+		align-items: center;
+		padding: 0px;
+		animation: Persona 2s 1;
+		margin-left: 10px;
+	
+	}
+	
+	.Personarigth p {
+		color: red;
+		font-size: 20px;
+	
+	}
+	
+	.Personarigth h2 {
+		margin-right: 20px;
+		margin-left: 40px;
+		font-size: 20px;
+	
+	}
+	
+	.nuestropersonal {
+		color: red;
+		margin-top: 10px;
+		margin-bottom: 20px;
+		margin-left: 39px;
+	}
+	
+	.Personaleft {
+		color: red;
+		display: flex;
+		align-items: center;
+		padding: 20px;
+		animation: Persona2 2s 1;
+		flex-direction: row-reverse;
+		
+	}
+	
+	.Personaleft h2 {
+		margin-right: 20px;
+		margin-left: 40px;
+		font-size: 20px;
+	}
+	
+	.Personaleft p {
+		color: red;
+	
+	}
+	
+	.img {
+		border: 5px solid black;
+		border-radius: 100px;
+		width: 100px;
+	}
+	
+	.google {
+		display: flex;
+		text-align: center;
+		justify-content: center;
+	}
+	
+	nuestropersonal {
+		animation: tbr 2s 1;
+	}
+	
+	footer {
+		background-color: black;
+		color: black;
+		text-align: center;
+		padding: 20px;
+		margin-top: 50px;
+	}
+	
+	.redes-sociales a {
+		color: green;
+		font-size: 2rem;
+		margin: 0 10px;
+		padding: 5px;
+		display: inline-block;
+	}
+	
+	body>footer>div>a:nth-child(5)>i {
+		color: red;
+	}
+	
+	body>footer>div>a:nth-child(4)>i {
+		color: green;
+	}
+	
+	body>footer>div>a:nth-child(3)>i {
+		color: #DD2A7B;
+	}
+	
+	body>footer>div>a:nth-child(2)>i {
+		color: purple;
+	}
+	
+	body>footer>div>a:nth-child(1)>i {
+		color: #3B5998;
+	}
+	
+	@keyframes Persona {
+		from {
+			transform: translateX(-700px);
+		}
+	
+		to {
+			transform: translateX(10px);
+		}
+	}
+	
+	@keyframes Persona2 {
+		from {
+			transform: translateX(-800px);
+		}
+	
+		to {
+			transform: translateX(10px);
+		}
+	}
+	
+	@keyframes fade {
+		0% {
+			opacity: 0;
+		}
+	
+		100% {
+			opacity: 1;
+		}
+	}
+	
+	
+}
 
 @media (max-width: 390px)  {
 
