@@ -427,7 +427,7 @@ body>footer>div>a:nth-child(1)>i {
 	
 }
 
-@media (max-width: 390px)  {
+@media (min-width: 390px)  {
 
 	* {
 		font-family: 'Open Sans';
@@ -453,7 +453,7 @@ body>footer>div>a:nth-child(1)>i {
 		color: white;
 		/* Cambiar el color del texto a rojo */
 		margin: 0 1px;
-		padding: 1px 0px;
+		padding: 1px 1px;
 		border-radius: 30px;
 	}
 	
@@ -465,14 +465,13 @@ body>footer>div>a:nth-child(1)>i {
 	.logo {
 		border-radius: 200px;
 		border: 5px solid #000;
-		width: 60px;
+		width: 80px;
 	}
 	
 	.espacio {
 		padding: 2px;
 		background-color: #000;
 	}
-	
 	.logotipo {
 		text-align: left;
 	}
