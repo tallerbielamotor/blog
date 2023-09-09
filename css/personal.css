@@ -212,7 +212,6 @@ body>footer>div>a:nth-child(1)>i {
 
 
 @media (max-width: 360px) {
-
 	* {
 		font-family: 'Open Sans';
 		margin: 0;
@@ -258,7 +257,6 @@ body>footer>div>a:nth-child(1)>i {
 		padding: 2px;
 		background-color: #000;
 	}
-	
 	
 	.logotipo {
 		text-align: left;
@@ -431,7 +429,6 @@ body>footer>div>a:nth-child(1)>i {
 
 @media (max-width: 390px)  {
 
-
 	* {
 		font-family: 'Open Sans';
 		margin: 0;
@@ -443,7 +440,7 @@ body>footer>div>a:nth-child(1)>i {
 	body {
 		background-color: #bfbfbf;
 	}
-
+	
 	header {
 		background-color: #cc0000;
 		text-align: center;
@@ -451,18 +448,17 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a {
-		display: inline-flexbox;
+		display: inline-block;
 		text-decoration: none;
 		color: white;
 		/* Cambiar el color del texto a rojo */
-		margin: 0px 10px 0px 0px;
-		padding: 1px 1px;
+		margin: 0 1px;
+		padding: 1px 0px;
 		border-radius: 30px;
-
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #cc0000;
 		color: white;
 	}
 	
@@ -471,12 +467,11 @@ body>footer>div>a:nth-child(1)>i {
 		border: 5px solid #000;
 		width: 60px;
 	}
-
+	
 	.espacio {
 		padding: 2px;
 		background-color: #000;
 	}
-	
 	
 	.logotipo {
 		text-align: left;
