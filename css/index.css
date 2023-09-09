@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	background-color: red;
+	background-color: #cc0000;
 	text-align: center;
 	padding: 20px;
 }
@@ -37,6 +37,11 @@ nav a:hover {
 	width: 80px;
 }
 
+.espacio {
+	padding: 2px;
+	background-color: #000;
+}
+
 .maps {
 	text-align: center;
 	font-size: 30px;
@@ -44,8 +49,8 @@ nav a:hover {
 	color: white;
 }
 .btmaps {
-	background-color: red;
-	color: white;
+	background-color: #cc0000;
+	color: #a6a6a6;
 	padding: 10px;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -213,7 +218,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	header {
-		background-color: red;
+		background-color: #cc0000;
 		text-align: center;
 		padding: 20px;
 	}
@@ -229,7 +234,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #cc0000;
 		color: white;
 	}
 	
@@ -239,6 +244,11 @@ body>footer>div>a:nth-child(1)>i {
 		width: 30px;
 	}
 	
+	.espacio {
+		padding: 2px;
+		background-color: #000;
+	}
+
 	.maps {
 		text-align: center;
 		font-size: 30px;
@@ -246,8 +256,8 @@ body>footer>div>a:nth-child(1)>i {
 		color: white;
 	}
 	.btmaps {
-		background-color: red;
-		color: white;
+		background-color: #cc0000;
+		color: #a6a6a6;
 		padding: 10px;
 		padding-left: 50px;
 		padding-right: 50px;
@@ -418,7 +428,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	header {
-		background-color: red;
+		background-color: #cc0000;
 		text-align: center;
 		padding: 20px;
 	}
@@ -434,7 +444,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #cc0000;
 		color: white;
 	}
 	
@@ -442,6 +452,11 @@ body>footer>div>a:nth-child(1)>i {
 		border-radius: 200px;
 		border: 5px solid #000;
 		width: 50px;
+	}
+
+	.espacio {
+		padding: 2px;
+		background-color: #000;
 	}
 	
 	.maps {
@@ -452,7 +467,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	.btmaps {
 		background-color: red;
-		color: white;
+		color: #a6a6a6;
 		padding: 10px;
 		padding-left: 50px;
 		padding-right: 50px;
@@ -621,7 +636,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	header {
-		background-color: red;
+		background-color: #cc0000;
 		text-align: center;
 		padding: 20px;
 	}
@@ -637,7 +652,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #cc0000;
 		color: white;
 	}
 	
@@ -647,6 +662,11 @@ body>footer>div>a:nth-child(1)>i {
 		width: 80px;
 	}
 	
+	.espacio {
+		padding: 2px;
+		background-color: #000;
+	}
+
 	.maps {
 		text-align: center;
 		font-size: 30px;
@@ -654,8 +674,8 @@ body>footer>div>a:nth-child(1)>i {
 		color: white;
 	}
 	.btmaps {
-		background-color: red;
-		color: white;
+		background-color: #cc0000;
+		color: #a6a6a6;
 		padding: 10px;
 		padding-left: 50px;
 		padding-right: 50px;
@@ -826,7 +846,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	header {
-		background-color: red;
+		background-color: #cc0000;
 		text-align: center;
 		padding: 20px;
 	}
@@ -843,7 +863,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #cc0000;
 		color: white;
 	}
 	
@@ -853,6 +873,11 @@ body>footer>div>a:nth-child(1)>i {
 		width: 80px;
 	}
 	
+	.espacio {
+		padding: 2px;
+		background-color: #000;
+	}
+
 	.maps {
 		text-align: center;
 		font-size: 35px;
@@ -860,8 +885,8 @@ body>footer>div>a:nth-child(1)>i {
 		color: white;
 	}
 	.btmaps {
-		background-color: red;
-		color: white;
+		background-color: #cc0000;
+		color: #a6a6a6;
 		padding: 10px;
 		padding-left: 50px;
 		padding-right: 50px;
@@ -1032,7 +1057,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	header {
-		background-color: red;
+		background-color: #cc0000;
 		text-align: center;
 		padding: 20px;
 	}
@@ -1049,7 +1074,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #cc0000;
 		color: white;
 	}
 	
@@ -1059,6 +1084,11 @@ body>footer>div>a:nth-child(1)>i {
 		width: 80px;
 	}
 	
+	.espacio {
+		padding: 2px;
+		background-color: #000;
+	}
+	
 	.maps {
 		text-align: center;
 		font-size: 55px;
@@ -1066,8 +1096,8 @@ body>footer>div>a:nth-child(1)>i {
 		color: white;
 	}
 	.btmaps {
-		background-color: red;
-		color: white;
+		background-color: #cc0000;
+		color: #a6a6a6;
 		padding: 10px;
 		padding-left: 100px;
 		padding-right: 100px;
@@ -1263,6 +1293,11 @@ body>footer>div>a:nth-child(1)>i {
 		border-radius: 200px;
 		border: 5px solid #000;
 		width: 60px;
+	}
+
+	.espacio {
+		padding: 2px;
+		background-color: #000;
 	}
 	
 	.maps {
