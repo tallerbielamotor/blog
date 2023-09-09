@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	background-color: red;
+	background-color: #cc0000;
 	text-align: center;
 	padding: 20px;
 }
@@ -36,6 +36,12 @@ nav a:hover {
 	border: 5px solid #000;
 	width: 80px;
 }
+
+.espacio {
+	padding: 2px;
+	background-color: #000;
+}
+
 
 .logotipo {
 	text-align: left;
@@ -222,7 +228,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 
 	header {
-		background-color: red;
+		background-color: #cc0000;
 		text-align: center;
 		padding: 20px;
 	}
@@ -248,6 +254,12 @@ body>footer>div>a:nth-child(1)>i {
 		border: 5px solid #000;
 		width: 60px;
 	}
+
+	.espacio {
+		padding: 2px;
+		background-color: #000;
+	}
+	
 	
 	.logotipo {
 		text-align: left;
@@ -434,7 +446,7 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	header {
-		background-color: red;
+		background-color: #cc0000;
 		text-align: center;
 		padding: 20px;
 	}
@@ -460,6 +472,11 @@ body>footer>div>a:nth-child(1)>i {
 		border-radius: 200px;
 		border: 5px solid #000;
 		width: 80px;
+	}
+	
+	.espacio {
+		padding: 2px;
+		background-color: #000;
 	}
 	
 	.logotipo {
