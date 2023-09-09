@@ -221,10 +221,12 @@ body>footer>div>a:nth-child(1)>i {
 		text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 	}
 	
+
 	body {
 		background-color: #bfbfbf;
 	}
 	
+
 	header {
 		background-color: #cc0000;
 		text-align: center;
@@ -232,26 +234,26 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a {
-		display: inline-flexbox;
+		display: inline-block;
 		text-decoration: none;
 		color: white;
 		/* Cambiar el color del texto a rojo */
-		margin: 0px 10px 0px 0px;
-		padding: 5px 0px;
+		margin: 0 0px;
+		padding: 1px 1px;
 		border-radius: 30px;
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #990000;
 		color: white;
 	}
 	
 	.logo {
 		border-radius: 200px;
 		border: 5px solid #000;
-		width: 80px;
+		width: 60px;
 	}
-	
+
 	.espacio {
 		padding: 2px;
 		background-color: #000;
@@ -648,6 +650,7 @@ body>footer>div>a:nth-child(1)>i {
 
 @media (min-width: 768px) {
 
+	
 	* {
 		font-family: 'Open Sans';
 		margin: 0;
@@ -667,19 +670,17 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a {
-		display: inline-flexbox;
+		display: inline-block;
 		text-decoration: none;
 		color: white;
 		/* Cambiar el color del texto a rojo */
-		margin: 0px 10px 0px 0px;
-		padding: 5px 1px;
+		margin: 0 1px;
+		padding: 1px 1px;
 		border-radius: 30px;
-		font-size: 35px;
-
 	}
 	
 	nav a:hover {
-		background-color: red;
+		background-color: #cc0000;
 		color: white;
 	}
 	
@@ -693,6 +694,7 @@ body>footer>div>a:nth-child(1)>i {
 		padding: 2px;
 		background-color: #000;
 	}
+
 	
 	.logotipo {
 		text-align: left;
@@ -883,15 +885,14 @@ body>footer>div>a:nth-child(1)>i {
 	}
 	
 	nav a {
-		display: inline-flexbox;
+		display: inline-block;
 		text-decoration: none;
 		color: white;
 		/* Cambiar el color del texto a rojo */
-		margin: 0px 10px 0px 0px;
-		padding: 5px 1px;
+		margin: 0 1px;
+		padding: 1px 10px;
 		border-radius: 30px;
-		font-size: 30px;
-
+		font-size: 40px;
 	}
 	
 	nav a:hover {
@@ -905,11 +906,6 @@ body>footer>div>a:nth-child(1)>i {
 		width: 80px;
 	}
 
-	.espacio {
-		padding: 2px;
-		background-color: #000;
-	}
-	
 	.logotipo {
 		text-align: left;
 	}
