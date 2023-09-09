@@ -236,7 +236,7 @@ body>footer>div>a:nth-child(1)>i {
 	.logo {
 		border-radius: 200px;
 		border: 5px solid #000;
-		width: 80px;
+		width: 30px;
 	}
 	
 	.maps {
@@ -441,7 +441,7 @@ body>footer>div>a:nth-child(1)>i {
 	.logo {
 		border-radius: 200px;
 		border: 5px solid #000;
-		width: 80px;
+		width: 50px;
 	}
 	
 	.maps {
@@ -1045,7 +1045,7 @@ body>footer>div>a:nth-child(1)>i {
 		margin: 0 1px;
 		padding: 1px 10px;
 		border-radius: 30px;
-		font-size: 25px;
+		font-size: 40px;
 	}
 	
 	nav a:hover {
@@ -1260,7 +1260,7 @@ body>footer>div>a:nth-child(1)>i {
 	.logo {
 		border-radius: 200px;
 		border: 5px solid #000;
-		width: 80px;
+		width: 50px;
 	}
 	
 	.maps {
