@@ -413,7 +413,7 @@ body>footer>div>a:nth-child(1)>i {
 
 
 
-@media (min-width: 384px) {
+@media (max-width: 384px) {
 	
 	* {
 		font-family: 'Open Sans';
