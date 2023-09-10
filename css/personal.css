@@ -82,7 +82,7 @@ nav a:hover {
 	align-items: center;
 	padding: 0px;
 	animation: Persona 2s 1;
-	margin-left: 10px;
+	margin-left: 20px;
 
 }
 
@@ -297,7 +297,7 @@ body>footer>div>a:nth-child(1)>i {
 		align-items: center;
 		padding: 0px;
 		animation: Persona 2s 1;
-		margin-left: 10px;
+		margin-left: 20px;
 	
 	}
 	
@@ -511,7 +511,7 @@ body>footer>div>a:nth-child(1)>i {
 		align-items: center;
 		padding: 0px;
 		animation: Persona 2s 1;
-		margin-left: 10px;
+		margin-left: 20px;
 	
 	}
 	
@@ -729,7 +729,7 @@ body>footer>div>a:nth-child(1)>i {
 		align-items: center;
 		padding: 0px;
 		animation: Persona 2s 1;
-		margin-left: 10px;
+		margin-left: 20px;
 	
 	}
 	
@@ -760,6 +760,7 @@ body>footer>div>a:nth-child(1)>i {
 		padding: 20px;
 		animation: Persona2 2s 1;
 		flex-direction: row-reverse;
+		
 		
 	}
 	
@@ -939,7 +940,7 @@ body>footer>div>a:nth-child(1)>i {
 		align-items: center;
 		padding: 0px;
 		animation: Persona 2s 1;
-		margin-left: 10px;
+		margin-left: 20px;
 	
 	}
 	
@@ -970,6 +971,7 @@ body>footer>div>a:nth-child(1)>i {
 		padding: 20px;
 		animation: Persona2 2s 1;
 		flex-direction: row-reverse;
+		margin-left: 20px;
 		
 	}
 	
