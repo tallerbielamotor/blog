@@ -683,14 +683,14 @@ footer a {
     .inicio img {
         margin-top: 10px;
         width: 100px;
-        height: 100px;
+        height: 60px;
     }
     
     .inicio h1 {
         margin-left: 20px;
         margin-top: 10px;
         color: #e6e6e6;
-        font-size: 15px;
+        font-size: 10px;
     }
     
     .inicio p {
@@ -768,3 +768,5 @@ footer a {
     }
     
 }
+
+
