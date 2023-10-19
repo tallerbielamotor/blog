@@ -1,0 +1,451 @@
+* {
+ 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body {
+    background-color: #1a1a1a;
+}
+
+.menu {
+    display: flex;
+    z-index: 1;
+}
+
+.menu h1 {
+    color: white;
+    margin-left: 30px;
+}
+
+.menu nav {
+    margin-left: 1400px;
+    margin-top: 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+
+.caja {
+    overflow: hidden;
+    position: relative;
+
+}
+
+.minicaja {
+    display: inline-flex;
+}
+
+.minicaja p {
+    margin-left: 20px;
+    color: white;
+    margin-top: 400px;
+    font-size: 40px;
+
+}
+
+.coche img {
+    width: 1000px;
+    margin-top: 90px;
+
+}
+
+.fondo {
+    background-color: red;
+    transform: rotate(45deg);
+    z-index: -1;
+    margin-left: 1400px;
+    padding: 400px;
+    position: absolute;
+}
+
+.caja2 {
+    background-color: red;
+    padding: 200px;
+    display:  flex;
+}
+
+.minicaja2 {
+    display: inline-flex;
+    background-color: #1a1a1a;
+    padding: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    border: solid white 2px;
+}
+
+.minicaja2 img {
+    width: 200px;
+    height: 200px;
+}
+
+.text p {
+    color: white;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.redes {
+    display: inline-flex;
+    margin-top: 10px;
+}
+
+.box {
+    background-color: #0d0d0d;
+    margin-left: 400px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.box img {
+    width: 200px;
+}
+
+.box p {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.box2 {
+    background-color: #0d0d0d;
+    margin-left: 400px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+
+.box2 img {
+    width: 200px;
+}
+
+.box2 p {
+    margin-top: 10px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+@media (max-width: 1440px) {
+    * {
+ 
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        font-family: 'Alumni Sans Collegiate One', sans-serif;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    
+    body {
+        background-color: #1a1a1a;
+    }
+    
+    .menu {
+        display: flex;
+        z-index: 1;
+    }
+    
+    .menu h1 {
+        color: white;
+        margin-left: 30px;
+    }
+    
+    .menu nav {
+        margin-left: 1000px;
+        margin-top: 10px;
+    }
+    
+    .menu a {
+        text-decoration: none;
+        color: white;
+        padding-left: 20px;
+    }
+    
+    .caja {
+        overflow: hidden;
+        position: relative;
+    
+    }
+    
+    .minicaja {
+        display: inline-flex;
+    }
+    
+    .minicaja p {
+        margin-left: 20px;
+        color: white;
+        margin-top: 350px;
+        font-size: 30px;
+    }
+
+    .minicaja a {
+        margin-left: 0px;
+        color: white;
+        margin-top: 380px;
+        font-size: 30px;
+    }
+    
+    .coche img {
+        width: 800px;
+        margin-top: 90px;
+    
+    }
+    
+    .fondo {
+        background-color: red;
+        transform: rotate(45deg);
+        z-index: -1;
+        margin-left: 900px;
+        padding: 400px;
+        position: absolute;
+    }
+    
+    .caja2 {
+        background-color: red;
+        padding: 200px;
+        display:  flex;
+    }
+    
+    .minicaja2 {
+        display: inline-flex;
+        background-color: #1a1a1a;
+        padding: 1px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 20px;
+        border: solid white 2px;
+    }
+    
+    .minicaja2 img {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .text p {
+        color: white;
+        font-size: 30px;
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    
+    .redes {
+        display: inline-flex;
+        margin-top: 10px;
+    }
+    
+    .box {
+        background-color: #0d0d0d;
+        margin-left: 300px;
+        padding: 20px;
+        padding-top: 40px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 20px;
+        border-radius: 30px;
+        margin-top: 20px;
+    }
+    
+    .box img {
+        width: 200px;
+    }
+    
+    .box p {
+        margin-top: 10px;
+        font-size: 40px;
+        text-align: center;
+        color: white;
+    }
+    
+    .box2 {
+        background-color: #0d0d0d;
+        margin-left: 300px;
+        padding: 20px;
+        padding-top: 40px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 20px;
+        border-radius: 30px;
+        margin-top: 40px;
+    }
+    
+    .box2 img {
+        width: 200px;
+    }
+    
+    .box2 p {
+        margin-top: 10px;
+        font-size: 40px;
+        text-align: center;
+        color: white;
+    }
+}
+
+
+@media (min-width: 320px) and (max-width: 786px) {
+
+    * {
+ 
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        font-family: 'Alumni Sans Collegiate One', sans-serif;
+        font-family: 'Bebas Neue', sans-serif;
+    }
+    
+    body {
+        background-color: #1a1a1a;
+    }
+    
+    .menu {
+        display: flex;
+        z-index: 1;
+    }
+    
+    .menu h1 {
+        color: white;
+        margin-left: 30px;
+    }
+    
+    .menu nav {
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    
+    .menu a {
+        text-decoration: none;
+        color: white;
+        padding-left: 20px;
+    }
+    
+    .caja {
+        overflow: hidden;
+        position: relative;
+    
+    }
+    
+    .minicaja {
+        display: inline-flex;
+    }
+    
+    .minicaja p {
+        margin-left: 20px;
+        color: white;
+        margin-top: 110px;
+        font-size: 20px;
+    
+    }
+    
+    .coche img {
+        width: 200px;
+        margin-top: 90px;
+        margin-left: 10px;
+    
+    }
+    
+    .fondo {
+        background-color: red;
+        transform: rotate(45deg);
+        z-index: -1;
+        margin-left: 260px;
+        padding: 100px;
+        position: absolute;
+    }
+    
+    .caja2 {
+        background-color: red;
+        padding: 80px;
+        display:  flex;
+        padding-bottom: 60px;
+    }
+    
+    .minicaja2 {
+        display: inline-flex;
+        background-color: #1a1a1a;
+        padding: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 20px;
+        border: solid white 2px;
+    }
+    
+    .minicaja2 img {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .text p {
+        color: white;
+        font-size: 24px;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    
+    .redes {
+        display: inline-flex;
+        margin-top: 10px;
+    }
+    
+    .box {
+        background-color: #0d0d0d;
+        margin-left: 70px;
+        padding: 20px;
+        padding-top: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 20px;
+        border-radius: 30px;
+        margin-top: 20px;
+    }
+    
+    .box img {
+        width: 200px;
+    }
+    
+    .box p {
+        margin-top: 10px;
+        font-size: 40px;
+        text-align: center;
+        color: white;
+    }
+    
+    .box2 {
+        background-color: #0d0d0d;
+        margin-left: 70px;
+        padding: 20px;
+        padding-top: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 20px;
+        border-radius: 30px;
+        margin-top: 40px;
+    }
+    
+    .box2 img {
+        width: 200px;
+    }
+    
+    .box2 p {
+        margin-top: 10px;
+        font-size: 40px;
+        text-align: center;
+        color: white;
+    }
+}
