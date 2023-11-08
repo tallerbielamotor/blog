@@ -371,19 +371,24 @@ body {
     
     .caja2 {
         background-color: red;
-        padding: 80px;
+        padding: 10px;
         display:  flex;
-        padding-bottom: 60px;
+        padding-bottom: 200px;
     }
     
     .minicaja2 {
         display: inline-flex;
         background-color: #1a1a1a;
-        padding: 10px;
-        padding-left: 10px;
-        padding-right: 10px;
+        padding: 0px;
+        margin-top: 150px;
+        padding-left: 20px;
+        padding-right: 20px;
         border-radius: 20px;
         border: solid white 2px;
+    }
+
+    .minicaja2 iframe {
+        margin: 10px;
     }
     
     .minicaja2 img {
